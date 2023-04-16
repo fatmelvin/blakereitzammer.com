@@ -31,7 +31,8 @@ url: "https://blakereitzammer.com/site" # the base hostname & protocol for your 
 
 
 # Build settings
-theme: just-the-docs
+gem: just-the-docs
+# theme: just-the-docs
 # plugins:
 #   - jekyll-default-layout
 
