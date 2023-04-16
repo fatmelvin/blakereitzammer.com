@@ -32,8 +32,8 @@ url: "https://blakereitzammer.com/site" # the base hostname & protocol for your 
 
 # Build settings
 theme: just-the-docs
- plugins:
-   - jekyll-default-layout
+# plugins:
+#   - jekyll-default-layout
 
 # Exclude from processing.
 # The following items will not be processed, by default.
