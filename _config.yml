@@ -29,6 +29,19 @@ title: Blake Reitzammer's Notes
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+defaults:
+  -
+    scope:
+      type: posts
+      path: _posts
+    values:
+      is_post: true
+      layout: post
+    values:
+      is_post: false
+      layout: default
+
+
 # Build settings
 theme: minima
 plugins:
