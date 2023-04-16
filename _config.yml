@@ -24,22 +24,10 @@ title: Blake Reitzammer's Notes
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
-baseurl: "https://blakereitzammer.com" # the subpath of your site, e.g. /blog
+# baseurl: "https://blakereitzammer.com" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
-
-defaults:
-  -
-    scope:
-      type: posts
-      path: _posts
-    values:
-      is_post: true
-      layout: post
-    values:
-      is_post: false
-      layout: default
 
 
 # Build settings
